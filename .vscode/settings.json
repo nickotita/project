@@ -1,0 +1,4 @@
+{
+    "jshint.reportWarningsAsErrors": true,
+    "jshint.lintHTML": true
+}
